@@ -13,3 +13,4 @@ jobs:
           SLACK_TITLE: A new resource has been added!
           SLACK_USERNAME: Book Worm
           SLACK_ICON_EMOJI: ":bug:"
+          MSG_MINIMAL: true
