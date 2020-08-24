@@ -13,6 +13,6 @@ jobs:
           SLACK_TITLE: A new resource has been added to the wiki page!
           SLACK_USERNAME: Book Worm
           SLACK_ICON_EMOJI: ":bug:"
-          SLACK_MESSAGE: "You can view the new resource on the [QTMA shared-resources repository](https://github.com/QueensTechMediaAssociation/shared-resources/wiki)"
+          SLACK_MESSAGE: "https://github.com/QueensTechMediaAssociation/shared-resources/wiki"
           MSG_MINIMAL: true
           SLACK_FOOTER: ""
